@@ -8,7 +8,7 @@ This agent uses multivariate linear regression to build the model and has live s
 
 https://www.kaggle.com/gpreda/reddit-wallstreetsbets-posts
 
-The model trains off of the dataset linked above. The .csv file is also included in this repository for ease of use. 
+The model trains off of the dataset linked above. The .csv file is also included in this repository via zip file for ease of use. 
 
 Runtime -> Run All will not work due to asynchronous constraints from the PRAW scraping code cell.
 So long as the reddit_wsb.csv file is in the same folder as the  WSBAI.ipynb file, training and evaulating should run smoothly.
